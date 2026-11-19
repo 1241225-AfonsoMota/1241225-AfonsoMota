@@ -203,13 +203,3 @@
   <img src="https://img.shields.io/badge/Agile_Development-FF8C00?style=flat-square" alt="Agile Development">
   <img src="https://img.shields.io/badge/UML-6C757D?style=flat-square" alt="UML">
 </p>
-
----
-
-<p align="center">
-  <em>✨ Always learning, building and exploring new possibilities through technology. 🚀</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1241225-AfonsoMota&style=flat-square&color=blue" alt="Profile views">
-</p>
