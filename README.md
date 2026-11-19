@@ -206,14 +206,6 @@
 
 ---
 
-## 🟩 Contribution Activity
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="65%" alt="3D GitHub Contribution Calendar">
-</p>
-
----
-
 <p align="center">
   <em>✨ Always learning, building and exploring new possibilities through technology. 🚀</em>
 </p>
