@@ -28,28 +28,6 @@
   Passionate about technology, software development and turning ideas into real-world applications.
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 What I Do</h3>
-      <ul>
-        <li>Build web, mobile and desktop applications.</li>
-        <li>Explore backend development and software architecture.</li>
-        <li>Experiment with different technologies and development approaches.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 What Interests Me</h3>
-      <ul>
-        <li>Backend & Full-Stack Development</li>
-        <li>Software Architecture & Clean Code</li>
-        <li>Problem Solving & Learning New Technologies</li>
-        <li>Cybersecurity</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🚀 Featured Projects
