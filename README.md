@@ -167,8 +167,6 @@
   <img src="https://img.shields.io/badge/Visual_Paradigm-005F9E?style=flat-square" alt="Visual Paradigm">
 </p>
 
----
-
 ## 🧠 Core Concepts & Methodologies
 
 <p>
