@@ -167,7 +167,7 @@
   <img src="https://img.shields.io/badge/Visual_Paradigm-005F9E?style=flat-square" alt="Visual Paradigm">
 </p>
 
-## 🧠 Core Concepts & Methodologies
+### 🧠 Core Concepts & Methodologies
 
 <p>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs">
