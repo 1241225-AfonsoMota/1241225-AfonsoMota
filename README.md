@@ -20,16 +20,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<p align="center">
-  I'm a final-year Computer Engineering student at <strong>ISEP</strong>, Portugal 🇵🇹.
-  <br/>
-  Passionate about technology, software development and turning ideas into real-world applications.
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
